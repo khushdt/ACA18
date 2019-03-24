@@ -1,0 +1,44 @@
+body {
+	font: normal 16px Arial,Halvetica,sans-serif ;
+	background-color: #D6D6D7;
+}
+
+.b{
+	margin-bottom: 10px;
+	width: 95%;
+	background-color: #FFFFFF;
+	color: #000;
+	border: none;
+	
+}
+.container {
+	border-radius: 30px;
+	background-color: #707171;
+	color: #000000;
+
+	border: 3px black solid;
+	padding: 20px;
+	margin: 80px 600px;
+}
+
+.container h1{
+	padding-left:10px;
+	text-align:left;
+}
+
+
+.myform input {
+	width: 95%;
+	padding: 5px;
+}
+
+.myform label{
+	text-align: left;
+	display: block;
+
+}
+
+.formgroup{
+	padding-bottom: 20px;
+}
+

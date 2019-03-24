@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Registration Form</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body> 
+	<div class="container">
+ 	<h1>REGISTRATION FORM</h1>
+    <form class="myform">
+      	    <div class="formgroup">
+      	     <label>Enter your Name: </label>
+      	     <input type="text" name="name" placeholder="name...">	
+      	    </div>
+
+      	    <div class="formgroup">
+      	     <label>Enter your Address: </label>
+      	     <input type="text" name="Address" placeholder="Address">	
+      	    </div>
+
+      	    <div class="formgroup">
+      	     <label>Enter your Email: </label>
+      	     <input type="email" name="email" placeholder="Email...">	
+      	    </div>
+
+      	    <div class="formgroup">
+      	     <label>Enter your Mobile Number: </label>
+      	     <input type="Number" name="number" placeholder="Mobile Number">	
+      	    </div>
+
+      	    <div class="formgroup">
+      	     <label>Enter your Account Number.: </label>
+      	     <input type="Number" name="Account" placeholder="Account Number">	
+      	    </div>
+
+      	    <div class="formgroup">
+      	     <label>Enter your password: </label>
+      	     <input type="text" name="password" placeholder="Password">	
+      	    </div>
+      	    <input class="button" type="Submit" value="Submit" name="">
+
+      	    <br>
+      	    <br>
+      	    <a href="#">Admin Login</a>
+
+
+      </form>
+    </div> 
+    </div> 
+
+</body>
+</html>
